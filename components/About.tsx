@@ -23,8 +23,7 @@ const About: React.FC = () => {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/5 bg-[#111]">
               <img 
                 // Notun Google Content Link Add Kora Hoyeche
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi25LTz1sL9E8Q3K7UnFAqp9qiGoT1gnO6K4dZTkhyJJtmcGG2dbavHzvtMge6f2cuj0D93F5_SZ3KV3XOthi3591vT89nJO5jAzTN_2I4cXdhIGTzy7bt_v-0Z75rgDiYTm0RpkLJw74d-jviHjkWra2ig2QXX8q248q5njt0OD8AUMQi1R2AT7jsrD3M/s1600/Screenshot_10.png" 
-                alt="Sujon Working" 
+                src="https://blogger.googleusercontent.com/img/a/AVvXsEitAQFKbC69jlh9gPJpu7Izwg3SBd8jrmUPaiSYPhZL1bI9G5mrF_laeLFayOqxdg2OZTkg34v_o6Tx5NqvLvuynIA6c3V3Nx5J1b6-u4sag_CWkPCZ7Tj85EPfgbRh2UAZ-FBmhzT7AXk_8RwcYhDutbPMC1AF2AQwgH6KfEQa-BMkl9XD09XlvSlt8g" 
                 className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100 object-cover"
                 onError={(e) => {
                     // Jodi kono karone image load na hoy, tar jonno fallback
