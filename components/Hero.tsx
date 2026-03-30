@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
         <div className="absolute -inset-2 bg-gradient-to-r from-yellow-400 to-orange-600 rounded-full blur-md opacity-30 group-hover:opacity-60 transition duration-1000"></div>
         <div className="relative w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-[#0a0a0a] shadow-2xl bg-[#111]">
           <img 
-            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr5E3Opd8Ia9Zm6T-3z7VBAeS-BInMVkxkrTtXvB1fY5cmI7oxlmlc8yWf-G2Mnfp91RPB7GHeOiPmn_SVQxypqKPbdZbs1RPwkQAoSAD7OMk308Q0gqBTnD7aZNKlwuvzk2EPojvCWFvs-yZ5Ug77PHGASJloTJN7zmmdR3lY2OlYfwJYoGg8yQ5gJuc/w275-h318/photo_2025-10-27_00-48-57.jpg" 
+            src="https://blogger.googleusercontent.com/img/a/AVvXsEgGbSGG6EggRlbOiL_hegFgI7mN-2dGrsLJWAXGJ_YFpl-x5oHyHPDXmAr73jriWUcj3K3yYm8flqc73cWY7odf4s9CfXqZQ-qv8tR7HW4gEEuPVPO2ljF-jkejZBObUPmIw0A3OitAA5KWqQkg4fxGub8_8TnfooZy281cNmXM4tOAwi5fikzyBD2mOg" 
             alt="Sujon Ahmed" 
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
           />
