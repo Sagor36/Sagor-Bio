@@ -42,7 +42,7 @@ const Resume: React.FC = () => {
       year: '2022 - Now', 
       title: 'Professional Digital Marketer', 
       company: 'CEO, Md.al- Rabbany IT Expert.',
-      desc: 'As the CEO of Sujon-IT-Expert for the past 4 years, I have been driving business growth through expert YouTube SEO, Video Promotion, Google/Facebook Ads, and Website SEO. I specialize in delivering high-impact digital strategies that maximize brand visibility and ROI.'
+      desc: 'As the CEO of Rabbany-IT-Expert for the past 4 years, I have been driving business growth through expert YouTube SEO, Video Promotion, Google/Facebook Ads, and Website SEO. I specialize in delivering high-impact digital strategies that maximize brand visibility and ROI.'
     },
     { 
       year: '2021 - 2022', 
