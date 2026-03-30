@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
         <div className="relative w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-[#0a0a0a] shadow-2xl bg-[#111]">
           <img 
             src="https://blogger.googleusercontent.com/img/a/AVvXsEgGbSGG6EggRlbOiL_hegFgI7mN-2dGrsLJWAXGJ_YFpl-x5oHyHPDXmAr73jriWUcj3K3yYm8flqc73cWY7odf4s9CfXqZQ-qv8tR7HW4gEEuPVPO2ljF-jkejZBObUPmIw0A3OitAA5KWqQkg4fxGub8_8TnfooZy281cNmXM4tOAwi5fikzyBD2mOg" 
-            alt="Sujon Ahmed" 
+            alt="Md.al- Rabbany" 
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
           />
         </div>
