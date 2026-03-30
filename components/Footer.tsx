@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Drop me a line</h3>
               <div className="flex items-center gap-4 text-gray-400 text-lg group">
                 <i className="fas fa-envelope text-purple-600"></i>
-                <a href="mailto:bdsujonndm@gmail.com" className="hover:text-white transition-colors">pfrabbanybd@gmail.com</a>
+                <a href="mailto:pfrabbanybd@gmail.com" className="hover:text-white transition-colors">pfrabbanybd@gmail.com</a>
               </div>
             </div>
 
@@ -92,7 +92,7 @@ const Footer: React.FC = () => {
         {/* Final Bottom Bar */}
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-600 text-[10px] font-black uppercase tracking-[0.4em]">
-            &copy; 2025 Sujon It Expert. All Rights Reserved.
+            &copy; 2025 Rabbany It Expert. All Rights Reserved.
           </p>
           <div className="flex gap-8 text-[9px] font-black uppercase tracking-[0.2em] text-gray-700">
             <a href="#" className="hover:text-yellow-400 transition-all">Privacy Policy</a>
