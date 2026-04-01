@@ -19,7 +19,7 @@ const Contact: React.FC = () => {
     e.preventDefault();
     setIsSubmitting(true);
     setTimeout(() => {
-      setStatus({ type: 'success', message: 'Message sent! Rabbany will contact you shortly.' });
+      setStatus({ type: 'success', message: 'Message sent! Milon will contact you shortly.' });
       setFormData({ firstName: '', lastName: '', email: '', message: '' });
       setIsSubmitting(false);
       setTimeout(() => setStatus({ type: null, message: '' }), 5000);
@@ -32,14 +32,14 @@ const Contact: React.FC = () => {
         <h2 className="text-center text-4xl md:text-5xl font-extrabold mb-4 italic">
           Get <span className="text-gold-gradient">In Touch</span>
         </h2>
-        <p className="text-gray-400 font-light max-w-lg mx-auto"></p>
+        <p className="text-gray-400 font-light max-w-lg mx-auto">Please fill out the form to initiate a conversation about your next project.</p>
       </div>
 
       <div className="grid md:grid-cols-3 gap-10 mb-20">
         {[
           { icon: '📍', title: 'Location', value: 'Rangpur, Bangladesh' },
-          { icon: '📱', title: 'WhatsApp', value: '+88001788291508' },
-          { icon: '📧', title: 'Email', value: 'pfrabbanybd@gmail.com' }
+          { icon: '📱', title: 'WhatsApp', value: '+880 1950-088225' },
+          { icon: '📧', title: 'Email', value: 'bdmilondm@gmail.com' }
         ].map((item, i) => (
           <div key={i} className="glass p-8 rounded-3xl text-center neon-border group">
             <div className="text-3xl mb-4 group-hover:scale-110 transition-transform inline-block">{item.icon}</div>
