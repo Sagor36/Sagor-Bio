@@ -2,10 +2,10 @@ import React from 'react';
 
 const About: React.FC = () => {
   const details = [
-    { label: 'Full Name', value: 'Md Milon Mia' },
+    { label: 'Full Name', value: 'Sagor Ahmed' },
     { label: 'City', value: 'Rangpur, Bangladesh' },
     { label: 'Age', value: '20 Years Old' },
-    { label: 'Email', value: 'bdmilondm@gmail.com' },
+    { label: 'Email', value: 'bdsagordm@gmail.com' },
     { label: 'Nationality', value: 'Bangladeshi' },
     { label: 'Specialization', value: 'YouTube Promotion & SEO' },
   ];
@@ -17,8 +17,8 @@ const About: React.FC = () => {
           <div className="absolute -top-4 -left-4 w-full h-full border-2 border-yellow-500/20 rounded-3xl -z-10 group-hover:-top-6 group-hover:-left-6 transition-all duration-500"></div>
           <div className="relative rounded-3xl overflow-hidden shadow-2xl">
             <img 
-              src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80&w=800&h=1000" 
-              alt="Milon Working" 
+              src="https://blogger.googleusercontent.com/img/a/AVvXsEi3YHSZXt50ksKiy7pp7TLMwPHEhi7yVb8OIhDGYr9SQ2WtCWyiV95MMLDVIMobOa3Y28oZgBcstaRVzeMTnxexfvdqZn9HGOZtl5AfkH7idkxFNmXUz-UdLPBNXajaEv2xwzkQNT8MnOpY8ptCjzQLANczHTM7MnM1Ws7CeLdbpf8DVfu7scA9ZzIz6g" 
+              alt="Sagor Working" 
               className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100"
             />
           </div>
