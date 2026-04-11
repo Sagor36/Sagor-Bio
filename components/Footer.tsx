@@ -3,11 +3,11 @@ import React from 'react';
 const Footer: React.FC = () => {
   // Social link gulo ekhane update korte parbe
   const socials = [
-    { name: 'Facebook', icon: 'fab fa-facebook-f', href: 'https://facebook.com/yourprofile' },
-    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://instagram.com/yourprofile' },
-    { name: 'Twitter', icon: 'fab fa-x-twitter', href: 'https://twitter.com/yourprofile' },
-    { name: 'LinkedIn', icon: 'fab fa-linkedin-in', href: 'https://linkedin.com/in/yourprofile' },
-    { name: 'YouTube', icon: 'fab fa-youtube', href: 'https://youtube.com/yourchannel' },
+    { name: 'Facebook', icon: 'fab fa-facebook-f', href: 'https://facebook.com/bdsagordm' },
+    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://instagram.com/bdsagordm' },
+    { name: 'Twitter', icon: 'fab fa-x-twitter', href: 'https://twitter.com/bdsagordm' },
+    { name: 'LinkedIn', icon: 'fab fa-linkedin-in', href: 'https://linkedin.com/in/bdsagordm' },
+    { name: 'YouTube', icon: 'fab fa-youtube', href: 'https://youtube.com/bdsagordm' },
   ];
 
   return (
@@ -30,7 +30,7 @@ const Footer: React.FC = () => {
               Feel free to reach out if you want to collaborate with me, or simply have a chat.
             </p>
             <a 
-              href="mailto:bdshayondm@gmail.com" 
+              href="mailto:bdsagordm@gmail.com" 
               className="border border-[#3b1472] hover:border-[#7c3aed] hover:bg-purple-600/10 inline-flex items-center gap-3 px-8 py-4 rounded-full font-semibold text-lg transition-all group"
             >
               Start a new project 
@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Drop me a line</h3>
               <div className="flex items-center gap-4 text-gray-400 text-lg group">
                 <i className="fas fa-envelope text-purple-600"></i>
-                <a href="mailto:bdshayondm@gmail.com" className="hover:text-white transition-colors">bdshayondm@gmail.com</a>
+                <a href="mailto:bdsagordmdm@gmail.com" className="hover:text-white transition-colors">bdsagordm@gmail.com</a>
               </div>
             </div>
 
@@ -64,7 +64,7 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Direct Message Me</h3>
               <div className="flex items-center gap-4 text-gray-400 text-lg group">
                 <i className="fab fa-whatsapp text-purple-600 text-2xl"></i>
-                <a href="https://wa.me/8801339449362" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">+8801339449362</a>
+                <a href="https://wa.me/+880 1959-289905" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">+880 1959-289905</a>
               </div>
             </div>
 
@@ -92,7 +92,7 @@ const Footer: React.FC = () => {
         {/* Final Bottom Bar */}
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-600 text-[10px] font-black uppercase tracking-[0.4em]">
-            &copy; 2025 Milon IT Park Agency. All Rights Reserved.
+            &copy; 2025 Sagor IT Park Agency. All Rights Reserved.
           </p>
           <div className="flex gap-8 text-[9px] font-black uppercase tracking-[0.2em] text-gray-700">
             <a href="#" className="hover:text-yellow-400 transition-all">Privacy Policy</a>
